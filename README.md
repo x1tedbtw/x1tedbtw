@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Vitalii
+# Hi there🐱‍👤 , my name is Vitalii
 ### I am a student majoring in "Software Development".
 
 ## Skills and Experience
