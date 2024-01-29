@@ -7,13 +7,13 @@
 * ✨CSS
 * 🧩JS
 
-## Team projects
+## 👨‍👩‍👧‍👦Team projects
 ### Fast Sell marketplace:
 ```
 https://github.com/x1tedbtw/FastSell-Marketplace.git
 ```
 
-## Solo dedication projects
+## 👨‍💻Solo dedication projects
 
 ### Trevelling Salesman Problem
 ```
