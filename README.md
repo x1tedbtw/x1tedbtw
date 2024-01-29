@@ -8,19 +8,19 @@
 * 🧩JS
 
 ## Team projects
-#### Fast Sell marketplace:
+### Fast Sell marketplace:
 ```
 https://github.com/x1tedbtw/FastSell-Marketplace.git
 ```
 
 ## Solo dedication projects
 
-#### Trevelling Salesman Problem
+### Trevelling Salesman Problem
 ```
 https://github.com/x1tedbtw/TSP_GA.git
 ```
 
-#### Parse Tree
+### Parse Tree
 ```
 https://github.com/x1tedbtw/Parse_Tree_Project.git
 ```
