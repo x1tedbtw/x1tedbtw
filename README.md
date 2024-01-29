@@ -6,3 +6,13 @@
 * 💻HTML
 * ✨CSS
 * 🧩JS
+
+## Team projects
+```
+FASTSELL marketplace: https://github.com/x1tedbtw/FastSell-Marketplace.git
+```
+
+## Solo dedication projects
+```
+
+```
