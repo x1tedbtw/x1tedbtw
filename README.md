@@ -13,7 +13,7 @@ https://github.com/x1tedbtw/FastSell-Marketplace.git
 
 ## 👨‍💻Solo dedication projects
 
-### * Trevelling Salesman Problem
+* ### Trevelling Salesman Problem
 https://github.com/x1tedbtw/TSP_GA.git
 
 
