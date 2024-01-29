@@ -10,7 +10,7 @@
 ## 👨‍👩‍👧‍👦Team projects
 ### Fast Sell marketplace:
 ```
-https://github.com/x1tedbtw/FastSell-Marketplace.git
+<p style="color: purple;">https://github.com/x1tedbtw/FastSell-Marketplace.git</p> 
 ```
 
 ## 👨‍💻Solo dedication projects
@@ -24,3 +24,4 @@ https://github.com/x1tedbtw/TSP_GA.git
 ```
 https://github.com/x1tedbtw/Parse_Tree_Project.git
 ```
+
