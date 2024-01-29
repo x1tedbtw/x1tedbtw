@@ -9,7 +9,7 @@
 
 ## 👨‍👩‍👧‍👦Team projects
 ### Fast Sell marketplace:
-<p style="color: purple;">https://github.com/x1tedbtw/FastSell-Marketplace.git</p> 
+<p style="color: red;">https://github.com/x1tedbtw/FastSell-Marketplace.git</p> 
 
 ## 👨‍💻Solo dedication projects
 
