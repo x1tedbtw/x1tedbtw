@@ -1,5 +1,5 @@
-# Hi there👋, my name is Vitalii
-### I am a Software Developer
+# Hi there👋, my name is Vitalii.
+### I am a Software Developer.
 
 ## Skills and Experience
 <div >
