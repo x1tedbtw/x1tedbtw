@@ -1,5 +1,5 @@
 # Hi there👋, my name is Vitalii
-### I am a student majoring in "Software Development".
+### I am a Software Developer
 
 ## Skills and Experience
 <div >
