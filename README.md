@@ -11,13 +11,13 @@
 
 ## 👨‍👩‍👧‍👦Team projects
 
-### Fast Sell marketplace:
+### 💲Fast Sell marketplace:
 https://github.com/x1tedbtw/FastSell-Marketplace.git
 
 ## 👨‍💻Solo dedication projects
 
-### Amazon Clone:
+### 🌐 Amazon Clone:
 [https://github.com/x1tedbtw/TSP_GA.git](https://github.com/x1tedbtw/Amazon_Clone.git)
 
-### Trevelling Salesman Problem:
+### 🐍 Trevelling Salesman Problem:
 https://github.com/x1tedbtw/TSP_GA.git
