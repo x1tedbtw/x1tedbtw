@@ -16,11 +16,8 @@ https://github.com/x1tedbtw/FastSell-Marketplace.git
 
 ## 👨‍💻Solo dedication projects
 
+### Amazon Clone:
+[https://github.com/x1tedbtw/TSP_GA.git](https://github.com/x1tedbtw/Amazon_Clone.git)
+
 ### Trevelling Salesman Problem:
 https://github.com/x1tedbtw/TSP_GA.git
-
-
-### Parse Tree:
-https://github.com/x1tedbtw/Parse_Tree_Project.git
-
-
