@@ -2,7 +2,7 @@
 ### About me: 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=900&color=FF8925&width=435&lines=I'm+pursuing+a+Software+Development+degree.;Currently+learning+everything+about+QA.;Mostly+coding+in+JS%2C+Python+and+practicing+on+Codewars.;Check+out+my+projects+down+below!)](https://git.io/typing-svg)
 #### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github)](https://skillicons.dev)
 #### Softwares:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,ae,ps,pr,windows)](https://skillicons.dev)
 
