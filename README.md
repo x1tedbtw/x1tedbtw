@@ -5,7 +5,7 @@
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,sqlite,git,github)](https://skillicons.dev)
 #### Softwares:
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,ae,ps,pr,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode,ae,ps,pr,windows,ubuntu,mint)](https://skillicons.dev)
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x1tedbtw&theme=gruvbox" width=750  alt="stats graph"/>
