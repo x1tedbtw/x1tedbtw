@@ -2,7 +2,7 @@
 ### About me: 
 
 #### 📚 3rd-year Software Development student | Main language: 🐍Python
-#### 🧩 Stage 2/5 TAQC course at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course) | Main language: ☕Java
+#### 🧩 Stage 3/5 TAQC course at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course) | Main language: ☕Java
 
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,sqlite,git,github,azure)](https://skillicons.dev)
