@@ -5,7 +5,7 @@
 #### 🧩 Stage 3/5 TAQC course at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course) | Main language: ☕Java
 
 #### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,sqlite,git,github,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,sqlite,git,github,azure,postman)](https://skillicons.dev)
 #### Softwares:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode,windows,ubuntu,figma)](https://skillicons.dev)
 
