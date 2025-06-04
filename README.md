@@ -1,17 +1,42 @@
 # 👋 Hey there, I'm Vitalii!  
 ### About me: 
 
-#### 📚 3rd-year Software Development student | Main language: 🐍Python
-#### 🧩 Stage 4/5 TAQC course at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course) | Main language: ☕Java
+#### 📚 3rd-year Software Development student at [WSB Merito University](https://www.merito.pl/wroclaw/).
+#### 🧩 Test Automation student at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course).
 
 #### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,sqlite,git,github,azure,postman)](https://skillicons.dev)
-#### Softwares:
-[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode,windows,ubuntu,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,sqlite,postgresql,git,github,postman,pycharm,idea,vscode,windows)](https://skillicons.dev)
 
-<div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x1tedbtw&theme=gruvbox" width=750  alt="stats graph"/>
-</div>
+<table>
+<tr><td>
+
+| ⬛️ | SKILLS |
+| --- | --- |
+| `🦾` | Java |
+| `🦾` | Junit |
+| `🦾` | Selenium IDE |
+| `🦾` | Selenium WebDriver |
+| `🦾` | JDBC |
+| `🦾` | Git |
+| `🦾` | REST API |
+
+
+
+</td><td>
+
+| ⬛️ | SKILLS |
+| --- | --- |
+| `🦾` | HTML, CSS, XPath |
+| `🦾` | ChromeDevTools |
+| `🦾` | Swagger |
+| `🦾` | HTTP/HTTPS |
+| `🦾` | JSON Auth./Author. |
+| `🦾` | Postman |
+| `🦾` | Docker |
+
+
+</td></tr>
+</table>
 
 > [!WARNING]
 > *"software should be assumed guilty until proven innocent."*
