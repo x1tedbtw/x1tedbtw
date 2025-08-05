@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Vitalii!  
 ### About me: 
 
-#### 📚 3rd-year Software Development student at [WSB Merito University](https://www.merito.pl/wroclaw/).
+#### 📚 Software Development student at [WSB Merito University](https://www.merito.pl/wroclaw/).
 #### 🧩 Test Automation student at [SoftServe](https://career.softserveinc.com/en-us/landings/complete-test-automation-engineer-course).
 
 #### Languages and Tools:
